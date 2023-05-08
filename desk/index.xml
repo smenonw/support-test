@@ -12,17 +12,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://smenonw.github.io/desk/test-friday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://smenonw.github.io/desk/test-friday/</guid>
-      <description>Overview WETHOD follows a weekly cycle: we think that a week is a good trade-off between the need to control the project&amp;rsquo;s progress as much as possible and the need to not burden the control activities.
-Every Friday an e-mail will remind:
- Each project manager to compile the Project Status for its projects; Each collaborator to compile the Timesheet for the projects he worked on.  Timesheet Remember to insert only the real worked hours, cheating isn&amp;rsquo;t useful to anybody.</description>
-    </item>
-    
-    <item>
       <title>Desk</title>
       <link>https://smenonw.github.io/desk/index/</link>
       <pubDate>Tue, 31 Mar 2020 22:00:00 +0000</pubDate>
@@ -31,6 +20,17 @@ Every Friday an e-mail will remind:
       <description>Overview test The Desk is your private space and your favorite place. Here you can find a set of utilities and widgets all for you.
 {{&amp;lt; img-center src=&amp;ldquo;/uploads/2020/04/02/desk.png&amp;rdquo; &amp;gt;}}
 Activities This box collects all the items that were assigned to you in any [boards]({{&amp;lt; relref &amp;ldquo;pipeline/index.md#boards&amp;rdquo; &amp;gt;}}). You can scroll through them, search by item name and mark them as completed without going to the dedicated page. If this box is empty try to add a column &amp;ldquo;Member&amp;rdquo; in a board and set yourself as &amp;ldquo;Activity&amp;rsquo;s assignee&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Test Friday</title>
+      <link>https://smenonw.github.io/desk/test-friday/</link>
+      <pubDate>Mon, 08 May 2023 22:00:00 +0000</pubDate>
+      
+      <guid>https://smenonw.github.io/desk/test-friday/</guid>
+      <description>Overview WETHOD follows a weekly cycle: we think that a week is a good trade-off between the need to control the project&amp;rsquo;s progress as much as possible and the need to not burden the control activities.
+Every Friday an e-mail will remind:
+ Each project manager to compile the Project Status for its projects; Each collaborator to compile the Timesheet for the projects he worked on.  Timesheet Remember to insert only the real worked hours, cheating isn&amp;rsquo;t useful to anybody.</description>
     </item>
     
   </channel>

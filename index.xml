@@ -168,6 +168,17 @@ To invite a new teammate:
     </item>
     
     <item>
+      <title>Test Friday</title>
+      <link>https://smenonw.github.io/desk/test-friday/</link>
+      <pubDate>Mon, 08 May 2023 22:00:00 +0000</pubDate>
+      
+      <guid>https://smenonw.github.io/desk/test-friday/</guid>
+      <description>Overview WETHOD follows a weekly cycle: we think that a week is a good trade-off between the need to control the project&amp;rsquo;s progress as much as possible and the need to not burden the control activities.
+Every Friday an e-mail will remind:
+ Each project manager to compile the Project Status for its projects; Each collaborator to compile the Timesheet for the projects he worked on.  Timesheet Remember to insert only the real worked hours, cheating isn&amp;rsquo;t useful to anybody.</description>
+    </item>
+    
+    <item>
       <title>Profit &amp; Loss</title>
       <link>https://smenonw.github.io/profit-loss/index/</link>
       <pubDate>Tue, 29 Aug 2017 08:23:59 +0000</pubDate>
@@ -318,17 +329,6 @@ For example: if I have an actual value of 5 but I know that, in a particular mom
       <description>What It Is WETHOD is the online tool to manage people and projects in a collaborative way. We aim to make the project management simple, distributing the responsibilities among all the team members and reducing stress derived from projects organization.
 The result is a deeply integrated system that manages all the information which are essential for a project-oriented company: budget, planning, timesheet and activity report.
 This enables WETHOD to create a system where everybody collaborate and keep information up to date, a system that rewards who done well and warns the others.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://smenonw.github.io/desk/test-friday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://smenonw.github.io/desk/test-friday/</guid>
-      <description>Overview WETHOD follows a weekly cycle: we think that a week is a good trade-off between the need to control the project&amp;rsquo;s progress as much as possible and the need to not burden the control activities.
-Every Friday an e-mail will remind:
- Each project manager to compile the Project Status for its projects; Each collaborator to compile the Timesheet for the projects he worked on.  Timesheet Remember to insert only the real worked hours, cheating isn&amp;rsquo;t useful to anybody.</description>
     </item>
     
   </channel>
