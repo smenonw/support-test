@@ -42,7 +42,7 @@ Now you can invite your team members by visiting the Team section.</description>
       <guid>https://smenonw.github.io/desk/index/</guid>
       <description>Overview test The Desk is your private space and your favorite place. Here you can find a set of utilities and widgets all for you.
 {{&amp;lt; img-center src=&amp;ldquo;/uploads/2020/04/02/desk.png&amp;rdquo; &amp;gt;}}
-Activities This box collects all the items that were assigned to you in any [boards]({{&amp;lt; relref &amp;ldquo;pipeline/index.md#boards&amp;rdquo; &amp;gt;}}). You can scroll through them, search by item name and mark them as completed without going to the dedicated page. If this box is empty try to add a column &amp;ldquo;Member&amp;rdquo; in a board and set yourself as &amp;ldquo;Activity&amp;rsquo;s assignee&amp;rdquo;</description>
+Activities This box collects all the items that were assigned to you in any boards. You can scroll through them, search by item name and mark them as completed without going to the dedicated page. If this box is empty try to add a column &amp;ldquo;Member&amp;rdquo; in a board and set yourself as &amp;ldquo;Activity&amp;rsquo;s assignee&amp;rdquo;</description>
     </item>
     
     <item>
@@ -218,8 +218,8 @@ The monthly distribution is achieved by looking at the production plan of every 
 A project&amp;rsquo;s gross margin is the difference between its revenues and its external costs.
 Three important indicators are given in the first rows:
  Total: the sum of all your projects&amp;rsquo; gross margin, per month
- Bluesky: the dfference between revenues&amp;rsquo; bluesky and external costs&amp;rsquo; bluesky
- Delta revenues target: the dfference between revenues&amp;rsquo; delta revenues target and external costs&amp;rsquo; delta revenues target</description>
+ Bluesky: the difference between revenues&amp;rsquo; bluesky and external costs&amp;rsquo; bluesky
+ Delta revenues target: the difference between revenues&amp;rsquo; delta revenues target and external costs&amp;rsquo; delta revenues target</description>
     </item>
     
     <item>
